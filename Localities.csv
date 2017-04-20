@@ -1,0 +1,158 @@
+ID;Latitude;Longitude;Locality;Reference;Sampling_effort;Traps;Study_year;Country;Ecorregion;Vegetation_type;Division
+1;-6.74;-35.14583;Reserva Biological Guaribas;P. Cordeiro-Estrela unpublished data;2900;sherman, wire-mesh, pitfall;2014;Brazil;Pernambuco interior forest;Semideciduous seasonal forest;Pernambuco
+2;-6.74;-35.14583;Reserva Biological Guaribas;P. Cordeiro-Estrela unpublished data;2900;sherman, wire-mesh, pitfall;2015;Brazil;Pernambuco interior forest;Semideciduous seasonal forest;Pernambuco
+3;-7.59083;-35.49083;São Vicente Férrer;Lima et al. 2013;1920;wire-mesh (2 sizes);2003;Brazil;Caatinga;Steppe/Semideciduous seasonal forest;Pernambuco
+4;-7.59083;-35.49083;São Vicente Férrer;Lima et al. 2013;2560;wire-mesh (2 sizes);2006;Brazil;Caatinga;Steppe/Semideciduous seasonal forest;Pernambuco
+5;-7.89167;-35.17667;Campo de Instrução Marechal Newton Cavalcanti, Paudalho;P. Asfora, D. Astúa and L. Geise unpublished data;2410;sherman, wire-mesh, pitfall;2008;Brazil;Pernambuco interior forest;Semideciduous seasonal forest;Pernambuco
+6;-7.93694;-35.02643;região metropolitana de Recife;Dantas-Torres et al. 2012;25231;sherman, wire-mesh;2007-2009;Brazil;Pernambuco coastal forest;Open ombrophilous forest;Pernambuco
+7;-7.94;-34.87222;Estação Ecológica de Caetés, Paulista;P. Asfora, D. Astúa and L. Geise unpublished data;2981;sherman, wire-mesh, pitfall;2008;Brazil;Southern Atlantic mangrooves;Fluviomarine-influenced pioneer formation area;Pernambuco
+8;-8.00333;-35.02139;Estação Ecológica de Tapacurá, São Lourenço da Mata;P. Asfora, D. Astúa and L. Geise unpublished data;2446;sherman, wire-mesh;2008;Brazil;Pernambuco coastal forest;Open ombrophilous forest;Pernambuco
+9;-8.02028;-34.98167;Condomínio Chã da Peroba, Aldeia, Camaragibe;P. Asfora, D. Astúa and L. Geise unpublished data;1100;sherman, wire-mesh;2008;Brazil;Pernambuco coastal forest;Open ombrophilous forest;Pernambuco
+10;-8.05417;-34.88111;Parque Estadual Dois Irmãos, Recife;P. Asfora, D. Astúa and L. Geise unpublished data;6882;sherman, wire-mesh, pitfall;2008;Brazil;Southern Atlantic mangrooves;Fluviomarine-influenced pioneer formation area;Pernambuco
+11;-8.25;-35.08333;RE Gurjaú;Asfora & Pontes 2009;2000;wire-mesh;2003;Brazil;Pernambuco coastal forest;Dense ombrophilous forest;Pernambuco
+12;-8.36639;-36.02667;Parque Ecológico Municipal Professor João Vasconcelos Sobrinho;Sousa et al. 2004;5040;sherman, wire-mesh;1997-1998;Brazil;Caatinga;Steppe/Semideciduous seasonal forest;Northeastern Brejos
+13;-8.38278;-35.45278;Amaraji;Brandão-Filho et al. 2003;4200;wire-mesh (2 sizes);1996-2000;Brazil;Pernambuco coastal forest;Open ombrophilous forest;Pernambuco
+14;-8.71028;-35.83361;RPPN Frei Caneca, Jaqueira;Asfora & Pontes 2009;2000;wire-mesh;2003;Brazil;Pernambuco interior forest;Semideciduous seasonal forest;Pernambuco
+15;-8.72139;-35.84361;RPPN Frei Caneca, Jaqueira;P. Asfora, D. Astúa and L. Geise unpublished data;1595;sherman, wire-mesh;2008;Brazil;Pernambuco interior forest;Semideciduous seasonal forest;Pernambuco
+16;-9;-35.87;Moinho Serra Grande;Asfora & Pontes 2009;800;wire-mesh;2003;Brazil;Pernambuco coastal forest;Open ombrophilous forest;Pernambuco
+17;-11.25;-37.41667;Estância;Stevens & Husband 1998;12288;sherman, wire-mesh;1993;Brazil;Pernambuco interior forest;Semideciduous seasonal forest;Bahia
+18;-12.72778;-41.31389;Chapada Diamantina;Pereira & Geise 2009;8170;sherman, wire-mesh, pitfall;2002 / 2004;Brazil;Atlantic dry forests;Semideciduous seasonal forest;Diamantina
+19;-12.728;-39.77958;Morro do Tyresoles, Milagres;G. Ximenez unpublished data;1350;sherman, wire-mesh;2011;Brazil;Bahia interior forest;Steppe/Deciduous seasonal forest;Diamantina
+20;-12.85715;-39.46568;RPPN Guarirú;Carvalho & Oliveira 2015;1636;sherman, wire-mesh, pitfall;2012-2013;Brazil;Bahia interior forest;Semideciduous seasonal forest;Diamantina
+21;-12.96017;-39.44903;Fazenda do Sr. Getúlio, Serra da Jibóia, Varzedo;G. Ximenez unpublished data;560;sherman, wire-mesh, pitfall;2011;Brazil;Bahia coastal forest;Dense ombrophilous forest;Diamantina
+22;-13.83333;-39.16667;Reserva Ecológica da Michelin – REM/Pacada Grande, Igrapiúna/Ituberá;G. Ximenez unpublished data;9600;sherman, wire-mesh, pitfall;2008-2009;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+23;-13.848;-39.284;Pratigi, Igrapiuna;P. Cordeiro-Estrela and M. Alvarez unpublished data;2900;sherman, wire-mesh, pitfall;2014;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+24;-13.848;-39.284;Pratigi, Igrapiuna;P. Cordeiro-Estrela and M. Alvarez unpublished data;2900;sherman, wire-mesh, pitfall;2015;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+25;-14.65;-39.15;Almada/Urucutuca;"Laemmert et al. 1946; Vaz 2005";13809;sherman, wire-mesh (2 sizes), guillotine;1943-1945;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+26;-14.685;-39.162;Uruçucá, Ilheus;M. Alvarez unpublished data;1134;sherman, wire-mesh, pitfall;2015;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+27;-14.806;-39.039;Ilheus (urban fragment);M. Alvarez unpublished data;617;sherman, wire-mesh;2014;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+28;-14.88335;-39.175;Fortuna/Pirataquisse;"Laemmert et al. 1946; Vaz 2005";19099;sherman, wire-mesh (2 sizes), guillotine;1943-1945;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+29;-15.17306;-39.13222;Sul da Bahia;Pardini 2004;46656;sherman, pitfall;1998-2000;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+30;-15.20639;-39.16583;Fazenda Jueirana;Moura 1999;3760;sherman, wire-mesh;1997-1998;Brazil;Bahia coastal forest;Savannah/Dense ombrophilous forest;Bahia
+31;-15.249;-39.079;Reserva Biológica de Una;Moura 1999;3760;sherman, wire-mesh;1997-1998;Brazil;Bahia coastal forest;Savannah/Dense ombrophilous forest;Bahia
+32;-15.249;-39.079;Reserva Biológica de Una;M. Alvarez unpublished data;4320;sherman, wire-mesh;2013-2014;Brazil;Bahia coastal forest;Savannah/Dense ombrophilous forest;Bahia
+33;-15.249;-39.079;Reserva Biológica de Una;M. Alvarez unpublished data;5040;sherman, wire-mesh, pitfall;2015;Brazil;Bahia coastal forest;Savannah/Dense ombrophilous forest;Bahia
+34;-15.895;-39.238;Belmonte e Mascote;M. Alvarez unpublished data;3600;sherman, wire-mesh;2013-2014;Brazil;Bahia coastal forest;Savannah/Dense ombrophilous forest;Bahia
+35;-15.895;-39.238;Belmonte e Mascote;M. Alvarez unpublished data;4200;sherman, wire-mesh, pitfall;2015;Brazil;Bahia coastal forest;Savannah/Dense ombrophilous forest;Bahia
+36;-18.19708;-43.33108;Parque Estadual do Rio Preto;Nascimento 2009;5760;wire-mesh;2008-2009;Brazil;Bahia interior forest;Savannah;Interior forests
+37;-18.87472;-40.81389;Monumento Nacional Pontões Capixabas;Pinto et al. 2009b;3180;sherman, wire-mesh, pitfall;2007-2008;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+38;-19.64167;-42.55;Parque Estadual do Rio Doce;Stallings et al. 1991;64300;sherman, wire-mesh (2 sizes);1985-1987;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+39;-19.64167;-42.55;Parque Estadual do Rio Doce;Fonseca & Robinson 1990;19040;sherman, wire-mesh;1985-1986;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+40;-19.64167;-42.55;Parque Estadual do Rio Doce;Grelle 2003;5880;wire-mesh;1994;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+41;-19.72722;-41.82139;Fazenda Montes Claros;Fonseca & Robinson 1990;19040;sherman, wire-mesh;1985-1986;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+42;-19.88694;-43.37218;Estação de Preservação e Desenvolvimento Ambiental de Peti;Hermann 1991;26880;wire-mesh (2 sizes);1986-1988;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+43;-19.88694;-43.37218;Estação de Preservação e Desenvolvimento Ambiental de Peti;Paglia et al. 2005;5414;not informed;2002-2004;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+44;-19.93333;-43.88333;Parque das Mangabeiras;Oliveira et al. 2007;7115;wire-mesh;2003-2004;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+45;-19.95;-40.51667;Santa Teresa;Passamani & Fernandez 2011;19710;sherman, wire-mesh (2 sizes);1999-2001;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+46;-19.95;-40.53333;Estação Biológica Santa Lúcia;Paresque et al. 2004;3300;sherman, wire-mesh;2000-2001;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+47;-19.96667;-40.58333;Santa Teresa;Passamani & Ribeiro 2009;1950;sherman, wire-mesh;2002-2003;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+48;-20.07111;-42.73944;Fazenda Esmeralda;Fonseca & Robinson 1990;19040;sherman, wire-mesh;1985-1986;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+49;-20.15833;-40.31444;Área de Proteção Ambiental Mestre Álvaro;Guerra 2015;832;sherman, wire-mesh;2012-2013;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+50;-20.26667;-40.46667;Reserva Biológica de Duas Bocas;José et al. 2016;2559;wire-mesh (2 sizes);1987-1988;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+51;-20.26667;-40.46667;Reserva Biológica de Duas Bocas;Paresque et al. 2004;3352;sherman, wire-mesh;2001;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+52;-20.26667;-40.46667;Reserva Biológica de Duas Bocas;Pinto et al. 2009b;11880;sherman, wire-mesh, pitfall;2007-2008;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+53;-20.30306;-40.33389;Parque Estadual da Fonte Grande;Caldara-Junior & Leite 2007;5724;wire-mesh;2004-2005;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+54;-20.36667;-40.49167;Viana;Pinto et al. 2009a;1260;wire-mesh;1981-1982;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+55;-20.37222;-40.47206;Viana;Pinto et al. 2009a;900;sherman, wire-mesh;2006-2007;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+56;-20.46667;-41.8;Parque Nacional do Caparaó;Bonvicino et al. 2002;3231;sherman, wire-mesh;1992;Brazil;Campos Rupestres montane savanna;Semideciduous seasonal forest;Interior forests
+57;-20.49583;-43.6125;Parque Estadual Serra do Ouro Branco;Braga et al. 2015;5184;pitfall;2009-2010;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+58;-20.52167;-41.13472;Parque Estadual do Forno Grande;Vale 2015;4172;sherman, wire-mesh, pitfall;2013-2014;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+59;-20.59833;-41.18139;Parque Estadual da Mata das Flores;Vale 2015;4312;sherman, wire-mesh, pitfall;2013-2014;Brazil;Bahia coastal forest;Semideciduous seasonal forest;Bahia
+60;-20.6;-42.4;Parque Estadual da Serra do Brigadeiro;Moreira et al. 2009;4623;sherman, wire-mesh;1996-2004;Brazil;Campos Rupestres montane savanna;Semideciduous seasonal forest;Interior forests
+61;-20.75;-45.88333;Mata do Paraíso;Paglia et al. 1995;5760;sherman, wire-mesh;1992-1993;Brazil;Bahia interior forest;Savannah;Interior forests
+62;-20.75;-45.88333;Mata do Paraíso;Lessa et al. 1999;2916;sherman, wire-mesh;1997-1998;Brazil;Bahia interior forest;Savannah;Interior forests
+63;-20.775;-40.59167;áreas da Samarco Mineração S.A.;Passamani et al. 2005;3331;sherman, wire-mesh;2000-2001;Brazil;Bahia coastal forest;Dense ombrophilous forest;Bahia
+64;-20.88365;-41.83;Varre-Sai;Gonçalves et al. 2016;2340;sherman, wire-mesh;2013-2014;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+65;-20.89919;-44.83653;Santo Antônio do Amparo;Rocha 2010;6480;sherman (2 sizes), wire-mesh (2 sizes);2008-2009;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+66;-20.94697;-41.90308;Fazenda São Matheus;R. Cerqueira unpublished data;2420;sherman, wire-mesh, pitfall;2007;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+67;-21.0002;-43.99996;Lavras;Assis 2014;5184;sherman;2012-2013;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+68;-21.09263;-42.11773;Itaperuna;Gonçalves et al. 2016;2340;sherman, wire-mesh;2013-2014;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+69;-21.26667;-44.61667;próximo a Chapada das Perdizes;Machado 2015;30576;sherman, wire-mesh, pitfall;2012-2013;Brazil;Cerrado;Savannah;Interior forests
+70;-21.3;-44.975;região do Alto Rio Grande;Mesquita e Passamani 2012;6300;sherman, wire-mesh;2007-2008;Brazil;Cerrado;Savannah;Interior forests
+71;-21.35316;-42.21609;Miracema;Gonçalves et al. 2016;2340;sherman, wire-mesh;2013-2014;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+72;-21.46835;-41.91248;Fazenda Samburá;R. Cerqueira unpublished data;2530;sherman, wire-mesh, pitfall;2007;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+73;-21.48613;-41.85872;Cambuci;Gonçalves et al. 2016;2340;sherman, wire-mesh;2013-2014;Brazil;Bahia interior forest;Semideciduous seasonal forest;Interior forests
+74;-21.55;-47.85;"Estação Ecológica de Jataí; Estação Experimental de Luiz Antônio ";Talamoni & Dias 1999;2400;sherman;1992-1993;Brazil;Cerrado;Savannah;Interior forests
+75;-21.5932;-44.57708;Chapada das Perdizes - Floresta nebular;Machado et al. 2013;4080;sherman, wire-mesh, pitfall;2009-2010;Brazil;Cerrado;Savannah;Interior forests
+76;-21.59579;-44.56243;Chapada das Perdizes - Floresta semidecidua;Machado et al. 2013;5040;sherman, wire-mesh, pitfall;2009-2010;Brazil;Cerrado;Savannah;Interior forests
+77;-21.89368;-46.75313;Serra da Fartura;Moraes et al. 2003;3200;sherman;1999-2001;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+78;-22.02907;-42.62769;Encanto;Bonecker et al. 2009;9000;sherman, wire-mesh;2001-2006;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+79;-22.04611;-42.68917;Vale do Pamparrão;D’Andrea et al. 2007;5700;wire-mesh;1997-1999;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+80;-22.04611;-42.68917;Vale do Pamparrão;D’Andrea et al. 1999;12250;wire-mesh;1991-1996;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+81;-22.29167;-47.66667;bacia do rio Passa-Cinco;Gheler-Costa et al. 2012;5760;sherman (2 sizes);2003-2005;Brazil;Cerrado;Savannah;Interior forests
+82;-22.36667;-47.46667;Fazenda São José;Briani et al. 2001;911;sherman, wire-mesh;1997-1999;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+83;-22.42077;-52.31169;Pontal do Paranapanema;Rocha 2004;22993;sherman, wire-mesh;2002-2003;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+84;-22.42077;-52.31169;Pontal do Paranapanema;Nardi 2010;16128;sherman, wire-mesh;2008-2009;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+85;-22.43645;-44.62518;Parque Nacional do Itatiaia;Moraes et al. 2003;3200;sherman;1999-2001;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+86;-22.45806;-43.00389;Rancho Frio, Parque Nacional da Serra dos Órgãos;R. Cerqueira unpublished data;54200;sherman, wire-mesh, pitfall;2012-2017;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+87;-22.46667;-42.65;Fazenda Relógio do Sol, Serra dos Órgãos;R. Cerqueira unpublished data;900;sherman, wire-mesh;1996-1998;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+88;-22.46667;-42.98333;Garrafão, Parque Nacional da Serra dos Órgãos;Prevedello et al. 2008;69525;sherman, wire-mesh (2 sizes);1997-2007;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+89;-22.48364;-41.89796;Área de Relevante Interesse Ecológico Itapebussus;Almada 2015;1981;sherman, wire-mesh, pitfall;2013-2014;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+90;-22.4859;-42.95902;Parque da Caneca Fina, Serra dos Órgãos;R. Cerqueira unpublished data;900;sherman, wire-mesh;1996-1998;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+91;-22.48685;-43.11278;Sede Petrópolis, Parque Nacional da Serra dos Órgãos;A. C. Delciellos and R. Gentile unpublished data;5800;sherman, wire-mesh, pitfall;2014-2015;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+92;-22.54389;-42.30694;Portuense, Reserva Biológica Poço das Antas;Viveiros de Castro 2002;5520;sherman, wire-mesh;2000-2001;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+93;-22.54389;-42.30694;Osmarina, Reserva Biológica Poço das Antas;Pereira 1991;6210;sherman, wire-mesh (2 sizes);1988-1989;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+94;-22.58333;-42.25528;Ilhas dos Barbados, Reserva Biológica Poço das Antas;Oliveira 2001;7712;sherman, wire-mesh;1998-1999;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+95;-22.61389;-42.86667;sites de Mata Contínua, Serra dos Órgãos;Vieira et al. 2009;1200;sherman, wire-mesh;1999-2001;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+96;-22.61944;-42.81389;fragmentos de mata na Bacia do Rio Macacu;Vieira et al. 2009;12600;sherman, wire-mesh;1999-2001 / 2005-2007;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+97;-22.71667;-46.91667;Pedreira;Bonvicino et al. 2002;1830;sherman, wire-mesh;1996-1997;Brazil;Serra do Mar coastal forests;Savannah/Dense ombrophilous forest;Serra do Mar
+98;-22.73542;-44.61678;Parque Nacional da Serra da Bocaina;Moraes et al. 2003;3200;sherman;1999-2001;Brazil;Campos Rupestres montane savanna;Dense ombrophilous forest;Serra do Mar
+99;-22.77222;-53.26694;Ilha Mutum;Gomes 2009;2520;wire-mesh;2008;Brazil;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+100;-22.89583;-42.8625;Restinga de Barra de Maricá;Cerqueira et al. 1990;5250;wire-mesh (2 sizes);1985-1988;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+101;-22.94056;-43.44111;Parque Estadual da Pedra Branca;Oliveira et al. 2010;13200;not informed;2005-2007;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+102;-22.99232;-44.09793;Fazenda Bom Jardim;R. Cerqueira unpublished data;1860;sherman, wire-mesh, pitfall;2005;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+103;-23.16667;-44.24167;Vila Dois Rios;Martins-Hatano et al. 2002;7200;sherman,  wire-mesh (2 sizes) ;1998-1999;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+104;-23.16667;-44.24167;Vila Dois Rios;Bittencourt & Rocha 2003;7474;sherman, wire-mesh;1996-1997;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+105;-23.19861;-44.84;Parque Nacional da Serra da Bocaina;Delciellos et al. 2012;1235;sherman, wire-mesh, pitfall;2010-2011;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+106;-23.33333;-48.45;Alto Paranapanema;Martin et al. 2012;4977;pitfall;2007-2009;Brazil;Cerrado;Savannah;Interior forests
+107;-23.35;-44.83333;Picinguaba;Pinheiro & Geise 2008;2192;sherman, wire-mesh, pitfall;2002;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+108;-23.375;-45.16667;Núcleo Santa Virginia;Neves 2010;6840;sherman (3 sizes), wire-mesh, pitfall;2008-2009;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+109;-23.54583;-46.93472;Planalto Paulistano;Barros-Battesti et al. 2000;2888;wire-mesh (2 sizes);1995-1996;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+110;-23.58139;-47.52444;campus UFSCAR Sorocaba;Galvão 2012;1680;sherman (2 sizes), wire-mesh;2010-2011;Brazil;Alto Paraná Atlantic forests;Savannah/Dense ombrophilous forest;Interior forests
+111;-23.65;-47.01667;Reserva Florestal do Morro Grande;Naxara et al. 2009;2700;pitfall;2004-2005;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+112;-23.69018;-46.9531;Reserva Florestal do Morro Grande;Barros 2013;55440;sherman, pitfall;2008-2009;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+113;-23.7;-46.98333;Reserva Florestal do Morro Grande;Pardini & Umetsu 2006;8160;sherman, pitfall;2003-2004;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+114;-23.70833;-46.91667;Planalto Cristalino de Ibiúna, Caucaia do Alto;Umetsu 2005;35360;sherman, pitfall;2002-2005;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+115;-23.87917;-47.49625;Planalto de Ibiúna;Naxara 2007;20736;sherman (2 sizes), wire-mesh, pitfall;2006-2007;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+116;-23.91361;-47.68861;Fazenda João XXIII, Eucatex S/A Industria e Comercio, Área de Proteção Ambiental da Serra do Tapiraí;Silva 2001;10860;wire-mesh, pitfall;1998-1999;Brazil;Serra do Mar coastal forests;Savannah/Dense ombrophilous forest;Serra do Mar
+117;-24.149;-55.432;Mbaracayú Natural Forest Reserve;de la Sancha 2014;31600;sherman, guillotine, pitfall;2006-2009;Paraguay;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+118;-24.16139;-48.35083;Pedreira Limeira;Leiner & Silva 2012;6120;sherman, pitfall;2005-2008;Brazil;Alto Paraná Atlantic forests;Mixed ombrophilous forest;Serra do Mar
+119;-24.20057;-48.42607;Fazenda Intermontes;Leiner 2009;12000;sherman;2006-2007;Brazil;Alto Paraná Atlantic forests;Savannah/Dense ombrophilous forest;Serra do Mar
+120;-24.23333;-48.06667;Saibadela;Vieira 1999;17361;sherman, wire-mesh;1995-1997;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+121;-24.28333;-48.35;Barra Grande;Vieira 1999;4417;sherman, wire-mesh;1996-1997;Brazil;Alto Paraná Atlantic forests;Savannah/Dense ombrophilous forest;Serra do Mar
+122;-24.53333;-47.25;Estação Ecológica Juréia-Itatins;Bergallo 1994;4307;wire-mesh;1989-1990;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+123;-24.57278;-49.92639;FLONA Piraí do Sul;Grazzini et al. 2015;5892;sherman, wire-mesh (2 sizes), pitfall;2012-2013;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+124;-24.713;-55.438;Morombí Natural Private Reserve;de la Sancha 2014;31600;sherman, guillotine, pitfall;2006-2009;Paraguay;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+125;-24.816;-54.467;Limoy Biological Reserve;de la Sancha 2014;31600;sherman, guillotine, pitfall;2006-2009;Paraguay;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+126;-25.05139;-47.89667;Ilha do Cardoso;Bittencourt et al. 1999;1530;not informed;1993-1994;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+127;-25.07527;-53.66635;Parque Nacional do Iguaçu;Ferracioli 2013;5760;sherman;2012-2013;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Interior forests
+128;-25.43333;-48.91667;Parque Estadual Pico do Marumbi;Cerboncini et al. 2014;5600;sherman (2 sizes), wire-mesh, pitfall;2011;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+129;-25.6713;-48.61194;Parque Nacional Saint-Hilare/Lange;Mochi-Jr. 2014;3674;sherman (3 sizes), wire-mesh (3 sizes), pitfall;2012-2013;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+130;-25.91667;-49.4;fazenda Panagro;Barros-Battesti et al. 1998;720;sherman;1990-1991;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+131;-26.20833;-50.20833;FLONA Três Barras;Wallauer et al. 2000;900;wire-mesh;1997;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+132;-26.26861;-48.53278;Parque Estadual Acaraí;Balieiro et al. 2014;2940;Sherman, wire-mesh;2012;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+133;-26.4275;-51.31556;General Carneiro;Teixeira et al. 2014;13500;sherman, wire-mesh;2009-2011;Brazil;Araucaria Moist forest;Mixed ombrophilous forest;Araucária forests
+134;-26.459;-55.758;San Rafael Managed Resource Reserve;de la Sancha 2014;31600;sherman, guillotine, pitfall;2006-2009;Paraguay;Alto Paraná Atlantic forests;Semideciduous seasonal forest;Interior forests
+135;-27.10444;-54.97384;Valle del Cuña Pirú Reserve;Cirignoli et al. 2011;5319;sherman, wire-mesh (2 sizes), guillotine;1996-2003;Argentina;Alto Paraná Atlantic forests;Deciduous seasonal forest;Interior forests
+136;-27.13333;-52.71667;Chapecó;Maestri et al. 2014;6500;pitfall;2011-2012;Brazil;Alto Paraná Atlantic forests;Deciduous seasonal forest;Interior forests
+137;-27.16667;-53.91667;Parque Estadual do Turvo;Melo et al. 2011;6936;sherman, wire-mesh, pitfall;2008-2009;Brazil;Alto Paraná Atlantic forests;Deciduous seasonal forest;Interior forests
+138;-27.71667;-48.53333;Parque Municipal da Lagoa do Peri;Graipel et al. 2006;12132;wire-mesh (2 sizes);1998-2000;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+139;-27.73056;-48.80917;Hotel e Resort Plaza Caldas das Imperatriz;Dias 2013;840;pitfall;2010-2011;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+140;-27.73333;-48.8;Parque Estadual da Serra do Tabuleiro;Voltolini 1997;15400;wire-mesh;1991-1994;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+141;-27.75;-52.99167;bacia do rio da Várzea;Peters et al. 2010;1270;wire-mesh;2008-2009;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+142;-27.83861;-48.59167;Baixada do Maciambu;Dias 2013;1920;pitfall;2010-2011;Brazil;Serra do Mar coastal forests;Dense ombrophilous forest;Serra do Mar
+143;-28.31167;-52.18806;Floresta Nacional de Passo Fundo;Coghetto et al. 2014;1680;wire-mesh (2 sizes);2008;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+144;-28.33333;-52.16667;Parque Nacional de Passo Fundo;Galiano et al. 2014;11088;wire-mesh;2008-2009;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+145;-29.16667;-50.08333;Parque Nacional dos Aparados da Serra;Dalmagro & Vieira 2005;5178;sherman (2 sizes), wire-mesh (2 sizes);2000-2001;Brazil;Araucaria Moist forest;Mixed ombrophilous forest;Araucária forests
+146;-29.36435;-49.76366;Parque Estadual de Itapeva;Horn 2005;5548;wire-mesh (2 sizes);2004;Brazil;Atlantic coast restingas;Marine-influenced pioneer formation area;Serra do Mar
+147;-29.41667;-50.375;Floresta Nacional São Francisco de Paula;Prevedello 2013;13760;sherman, wire-mesh;2010;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+148;-29.46667;-50.20833;Centro de Pesquisas e Conservação da Natureza Pró-Mata;Pedó et al. 2010;2327;wire-mesh;2004;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+149;-29.48333;-50.2;Centro de Pesquisas e Conservação da Natureza Pró-Mata;Abreu & Oliveira 2014;3047;sherman, wire-mesh;2011;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+150;-29.65889;-50.21278;Estação de Pesquisa e Produção de Maquiné;Velho 1998;12000;wire-mesh;1996-1997;Brazil;Araucaria moist forest;Mixed ombrophilous forest;Araucária forests
+151;-29.66667;-53.71667;Morro do Elefante;Lima et al. 2010;3920;wire-mesh, pitfall;2005;Brazil;Alto Paraná Atlantic forests;Deciduous seasonal forest;Araucária forests
+152;-29.66667;-53.71667;Morro do Elefante;Melo et al. 2013;3920;wire-mesh;2006-2008;Brazil;Alto Paraná Atlantic forests;Deciduous seasonal forest;Araucária forests
+153;-29.79139;-53.84861;Campo de Instrução de Santa Maria;Finokiet et al. 2007;7420;wire-mesh (2 sizes), pitfall;2006;Brazil;Uruguayan savanna;Deciduous seasonal forest;Interior forests
+154;-30.23333;-51.03333;Lar Nazaré;Cademartori et al. 2008;1165;wire-mesh (2 sizes);2006-2007;Brazil;Uruguayan savanna;Steppe/Deciduous seasonal forest;Interior forests
+155;-31.8;-52.41667;Horto Botânico Irmão Teodoro Luis;Langone 2007;1215;wire-mesh (2 sizes);2006-2007;Brazil;Uruguayan savanna;Fluviomarine-influenced pioneer formation area;Interior forests
+156;-32.11667;-52.15;Mata da Estrada Velha;Quintela et al. 2012;5376;wire-mesh (4 sizes);2008;Brazil;Atlantic coast restingas;Marine-influenced pioneer formation area;Interior forests
+157;-32.15;-52.18333;Arroio Bolacha;Quintela et al. 2012;5376;wire-mesh (4 sizes);2008;Brazil;Atlantic coast restingas;Marine-influenced pioneer formation area;Interior forests
