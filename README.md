@@ -2,7 +2,7 @@
 
 <p align="justify">The dataset gathered here is a compilation of published scientific articles, book chapters, unpublished theses, dissertations, and monographs, and original unpublished data on species abundance that covers the whole extension of the Atlantic Forest, from northeastern Brazil to northern Argentina. It is probably the most comprehensive dataset for species abundance in a tropical rainforest. It includes 1,805 registers of at least 119 species in 140 localities, totaling 41,740 individuals represented here. In addition, we present additional information regarding the sampled localities, as ecoregion, predominant vegetation type, and biogeographic subdivision.</p>
 
-<p align="justify">The dataset accompanies our Data Paper be submitted to Ecology:
+<p align="justify">The dataset accompanies our Data Paper to be submitted to Ecology:
 Figueiredo, M. S. L., Barros, C. S., Delciellos, A. C., Guerra, E. B., Cordeiro-Estrela, P., Alvarez, M. R., Asfora, P. H., Astúa, D., Cerqueira, R., Geise, L., Grelle, C. E. V., Iack-Ximenes, G. E., Vieira, M. V. Submitted. Abundance of small mammals in the Atlantic Forest (ASMAF): a dataset for analyzing tropical community patterns. <i>Ecology</i>, 00: 000-000.</p>
 
 <b>CLASS I. DATA SET DESCRIPTORS</b>
