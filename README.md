@@ -3,7 +3,7 @@
 <p align="justify">The dataset gathered here is a compilation of published scientific articles, book chapters, unpublished theses, dissertations, and monographs, and original unpublished data on species abundance that covers the whole extension of the Atlantic Forest, from northeastern Brazil to northern Argentina. It is probably the most comprehensive dataset for species abundance in a tropical rainforest. It includes 1,902 registers of at least 111 species in 173 samples from 155 localities, totaling 42,617 individuals represented here. In addition, we present additional information regarding the sampled localities, as ecoregion, predominant vegetation type, and biogeographic subdivision.</p>
 
 <p align="justify">The dataset accompanies the Data Paper accepted to publishing in Ecology:
-Figueiredo, M. S. L., Barros, C. S., Delciellos, A. C., Guerra, E. B., Cordeiro-Estrela, P., Kajin, M., Alvarez, M. R., Asfora, P. H., Astúa, D., Bergallo, H. G., Cerqueira, R., Geise, L., Gentile, R., Grelle, C. E. V., Iack-Ximenes, G. E., Oliveira, L. C., Weksler, M., Vieira, M. V. Submitted. Abundance of small mammals in the Atlantic Forest (ASMAF): a dataset for analyzing tropical community patterns. <i>Ecology</i></p>
+Figueiredo, M. S. L., Barros, C. S., Delciellos, A. C., Guerra, E. B., Cordeiro-Estrela, P., Kajin, M., Alvarez, M. R., Asfora, P. H., Astúa, D., Bergallo, H. G., Cerqueira, R., Geise, L., Gentile, R., Grelle, C. E. V., Iack-Ximenes, G. E., Oliveira, L. C., Weksler, M., Vieira, M. V. 2017. Abundance of small mammals in the Atlantic Forest (ASMAF): a dataset for analyzing tropical community patterns. <i>Ecology</i> 98(11): 2981</p>
 
 <b>CLASS I. DATA SET DESCRIPTORS</b>
 
@@ -24,7 +24,7 @@ Figueiredo, M. S. L., Barros, C. S., Delciellos, A. C., Guerra, E. B., Cordeiro-
 
 
 Pedro Cordeiro-Estrela
-<p align="justify">Laboratório de Mamíferos, Departamento de Sistemática e Ecologia, Centro de Ciências Exatas e da Natureza, Universidade Federal da Paraíba, Campus I, João Pessoa, PB, 21040900, Brazil.</p>
+<p align="justify">Laboratório de Mamíferos, Departamento de Sistemática e Ecologia, Centro de Ciências Exatas e da Natureza, Universidade Federal da Paraíba, Campus I, João Pessoa, PB, 58051-900, Brazil.</p>
 
 
 Maja Kajin, and Helena G. Bergallo
